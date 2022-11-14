@@ -371,7 +371,7 @@ html #contact #form_contact > button:hover {
 }
 html #footer_main {
   height: 600px;
-  background-image: url(./assets/img/footer_main.jpg);
+  background-image: url(/img/footer_main.jpg);
   background-size: cover;
   background-attachment: fixed;
   box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
